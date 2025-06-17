@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\dtomodels\\listallstudentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\dtomodels\\listallstudentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\database\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\database\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\dtomodels\\studentwithcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\dtomodels\\studentwithcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\viewmodels\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\viewmodels\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\viewmodels\\createcoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\viewmodels\\createcoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class03\\qinshift.demoapp\\qinshift.class03\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8409A674-E744-4C5A-87F1-9D4C5896E2AD}|Qinshift.Class03\\Qinshift.Class03.csproj|solutionrelative:qinshift.class03\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListAllStudentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\DTOModels\\ListAllStudentsDto.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\DTOModels\\ListAllStudentsDto.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\DTOModels\\ListAllStudentsDto.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\DTOModels\\ListAllStudentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:36:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:14:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Services\\StudentService.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:32:11.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryDb.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Database\\InMemoryDb.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Database\\InMemoryDb.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Database\\InMemoryDb.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Database\\InMemoryDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:21:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentWithCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\DTOModels\\StudentWithCourseDto.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\DTOModels\\StudentWithCourseDto.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\DTOModels\\StudentWithCourseDto.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\DTOModels\\StudentWithCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:14:16.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateStudentVM.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\ViewModels\\CreateStudentVM.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\ViewModels\\CreateStudentVM.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\ViewModels\\CreateStudentVM.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\ViewModels\\CreateStudentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:32:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCourseVM.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\ViewModels\\CreateCourseVM.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\ViewModels\\CreateCourseVM.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\ViewModels\\CreateCourseVM.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\ViewModels\\CreateCourseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:28:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:15:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:07:02.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Qinshift.Class03\\Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class03\\Qinshift.DemoApp\\Qinshift.Class03\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "Qinshift.Class03\\Models\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:04:51.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
