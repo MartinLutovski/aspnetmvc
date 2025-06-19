@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Qinshift.Class04/1.0.0": {
+        "runtime": {
+          "Qinshift.Class04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qinshift.Class04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

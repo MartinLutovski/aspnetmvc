@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Qinshift.Class03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b52b2a154d14b668d241073418289cfe3331c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4848562b176c241c7a41715a34d8bd8fdb17196")]
 [assembly: System.Reflection.AssemblyProductAttribute("Qinshift.Class03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Qinshift.Class03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
