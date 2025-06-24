@@ -1,0 +1,12 @@
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\bin\Debug\net8.0\Avenga.TodoApp.Domain.deps.json
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\bin\Debug\net8.0\Avenga.TodoApp.Domain.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\bin\Debug\net8.0\Avenga.TodoApp.Domain.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.AssemblyInfo.cs
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.sourcelink.json
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\refint\Avenga.TodoApp.Domain.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\Avenga.TodoApp.Domain.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class06\TodoApp\Avenga.TodoApp\Avenga.TodoApp.Domain\obj\Debug\net8.0\ref\Avenga.TodoApp.Domain.dll

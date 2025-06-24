@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Avenga.TodoApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "Avenga.TodoApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Avenga.TodoApp.DataAccess.dll": {}
+        }
+      },
+      "Avenga.TodoApp.Domain/1.0.0": {
+        "runtime": {
+          "Avenga.TodoApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avenga.TodoApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avenga.TodoApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
