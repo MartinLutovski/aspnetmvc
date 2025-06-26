@@ -4,6 +4,7 @@ namespace Avenga.Class07.ModelBinding.Models.Dtos
 {
     public class StudentDto
     {
+        public int Id { get; set; }
         [Display(Name = "Student's full name")]
         public string FullName { get; set; }
 

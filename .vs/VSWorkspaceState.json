@@ -1,4 +1,13 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\ClassCode",
+    "\\ClassCode\\Class07",
+    "\\ClassCode\\Class07\\Avenga.Class07",
+    "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding",
+    "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views",
+    "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student"
+  ],
+  "SelectedNode": "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

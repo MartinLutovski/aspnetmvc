@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\models\\viewmodels\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\models\\viewmodels\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB55615B-C71E-4A47-8D12-47BA36D40100}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class07\\avenga.class07\\avenga.class07.modelbinding\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B40BE1-69B4-45C0-9C64-6ADD1483EF74}|Avenga.Class07.ModelBinding\\Avenga.Class07.ModelBinding.csproj|solutionrelative:avenga.class07.modelbinding\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +50,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Program.cs",
+              "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Program.cs",
+              "RelativeToolTip": "Avenga.Class07.ModelBinding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:29:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Avenga.Class07.ModelBinding\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T17:01:36.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateStudentVM.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Models\\ViewModels\\CreateStudentVM.cs",
+              "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Models\\ViewModels\\CreateStudentVM.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Models\\ViewModels\\CreateStudentVM.cs",
+              "RelativeToolTip": "Avenga.Class07.ModelBinding\\Models\\ViewModels\\CreateStudentVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:56:59.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Views\\_ViewImports.cshtml",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Views\\Student\\Index.cshtml",
@@ -64,33 +115,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StudentDto.cs",
               "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Models\\Dtos\\StudentDto.cs",
               "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Models\\Dtos\\StudentDto.cs",
               "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Models\\Dtos\\StudentDto.cs",
               "RelativeToolTip": "Avenga.Class07.ModelBinding\\Models\\Dtos\\StudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T16:05:06.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Avenga.Class07.ModelBinding\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T16:03:43.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Avenga.Class07.ModelBinding\\Models\\Entities\\Student.cs",

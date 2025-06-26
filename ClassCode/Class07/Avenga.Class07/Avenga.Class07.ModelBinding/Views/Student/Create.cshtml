@@ -1,0 +1,39 @@
+﻿@using Avenga.Class07.ModelBinding.Models.ViewModels  
+@model CreateStudentVM  
+
+<h2>Create new student</h2>  
+<hr />  
+<div class="container">  
+    <div class="row">  
+        <div class="col-md-4">  
+            <form asp-action="Create" method="post">  
+                <div class="form-group">  
+                      <label asp-for="FirstName" class="control-label"></label>
+                    <input asp-for="FirstName" class="form-control" />
+                </div>  
+                <div class="form-group">
+                    <label asp-for="LastName" class="control-label"></label>
+                    <input asp-for="LastName" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="AdditionalInfo" class="control-label"></label>
+                    <input asp-for="AdditionalInfo" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="DateOfBirth" class="control-label"></label>
+                    <input asp-for="DateOfBirth" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Create"></input>
+                </div>
+            </form>  
+        </div>  
+    </div>  
+        <div>
+            <a asp-action = "Index" class="btn btn-outline-info">Back</a>
+        </div>
+</div>
