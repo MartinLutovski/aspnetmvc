@@ -36,10 +36,19 @@
       "Avenga.TodoApp.Services/1.0.0": {
         "dependencies": {
           "Avenga.TodoApp.DataAccess": "1.0.0",
-          "Avenga.TodoApp.Domain": "1.0.0"
+          "Avenga.TodoApp.Domain": "1.0.0",
+          "Avenga.TodoApp.ViewModels": "1.0.0"
         },
         "runtime": {
           "Avenga.TodoApp.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Avenga.TodoApp.ViewModels/1.0.0": {
+        "runtime": {
+          "Avenga.TodoApp.ViewModels.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -64,6 +73,11 @@
       "sha512": ""
     },
     "Avenga.TodoApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avenga.TodoApp.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -16,3 +16,5 @@ C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\A
 C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Services\obj\Debug\net8.0\refint\Avenga.TodoApp.Services.dll
 C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Services\obj\Debug\net8.0\Avenga.TodoApp.Services.pdb
 C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Services\obj\Debug\net8.0\ref\Avenga.TodoApp.Services.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Services\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Services\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.pdb

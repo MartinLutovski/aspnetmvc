@@ -1,5 +1,6 @@
 ﻿using Avenga.TodoApp.Services.Dtos;
 using Avenga.TodoApp.Services.Services.Interfaces;
+using Avenga.TodoApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Avenga.TodoApp.Web.Controllers
@@ -17,6 +18,20 @@ namespace Avenga.TodoApp.Web.Controllers
         {
             List<TodoDto> todos = _todoservice.GetAllTodos().ToList();
             return View(todos);
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+
+        public IActionResult Create(CreateTodoVM model)
+        {
+
+            return View();
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.deps.json
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.AssemblyInfo.cs
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.sourcelink.json
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\refint\Avenga.TodoApp.ViewModels.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\Avenga.TodoApp.ViewModels.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.ViewModels\obj\Debug\net8.0\ref\Avenga.TodoApp.ViewModels.dll

@@ -36,3 +36,5 @@ C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\A
 C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Web\obj\Debug\net8.0\Avenga.TodoApp.Web.pdb
 C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Web\obj\Debug\net8.0\Avenga.TodoApp.Web.genruntimeconfig.cache
 C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Web\obj\Debug\net8.0\ref\Avenga.TodoApp.Web.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Web\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.Web\bin\Debug\net8.0\Avenga.TodoApp.ViewModels.pdb

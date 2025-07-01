@@ -1,0 +1,28 @@
+﻿@using Avenga.TodoApp.ViewModels
+@model CreateTodoVM
+
+<div class="container">
+    <div class="row">
+        <h2>Create Todo</h2>
+        <div class="col-md-6">
+            <form asp-action="Create" asp-controller="Todo" method="post">
+                <div>
+                    <label asp-for="Description" class="form-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    
+                </div>
+                <div>
+                    <label asp-for="DueDate" class="form-label"></label>
+                    <input asp-for="DueDate" class="form-control" />
+                    </div>
+                <div>
+                    <label asp-for="CategoryId" class="form-label"></label>
+                    <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, "Id", "Name"))">
+                        <option value="0">Select category</option>
+                    </select>
+
+                </div>
+            </form>
+                <button type="submit" class="btn btn-primary">Create</butn>
+</div>
+</div>
