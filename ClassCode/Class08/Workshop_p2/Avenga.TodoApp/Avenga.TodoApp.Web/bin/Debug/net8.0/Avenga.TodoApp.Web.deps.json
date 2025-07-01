@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Avenga.TodoApp.Web/1.0.0": {
+        "dependencies": {
+          "Avenga.TodoApp.Services": "1.0.0"
+        },
+        "runtime": {
+          "Avenga.TodoApp.Web.dll": {}
+        }
+      },
+      "Avenga.TodoApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "Avenga.TodoApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Avenga.TodoApp.DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Avenga.TodoApp.Domain/1.0.0": {
+        "runtime": {
+          "Avenga.TodoApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Avenga.TodoApp.Services/1.0.0": {
+        "dependencies": {
+          "Avenga.TodoApp.DataAccess": "1.0.0",
+          "Avenga.TodoApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Avenga.TodoApp.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avenga.TodoApp.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avenga.TodoApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avenga.TodoApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avenga.TodoApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Avenga.TodoApp.Domain/1.0.0": {
+        "runtime": {
+          "Avenga.TodoApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avenga.TodoApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

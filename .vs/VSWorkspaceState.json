@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\ClassCode",
-    "\\ClassCode\\Class07",
     "\\ClassCode\\Class07\\Avenga.Class07",
     "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding",
     "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views",
-    "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student"
+    "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student",
+    "\\ClassCode\\Class08",
+    "\\ClassCode\\Class08\\Workshop_p2",
+    "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp"
   ],
-  "SelectedNode": "\\ClassCode\\Class07\\Avenga.Class07\\Avenga.Class07.ModelBinding\\Views\\Student\\Index.cshtml",
+  "SelectedNode": "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.sln",
   "PreviewInSolutionExplorer": false
 }

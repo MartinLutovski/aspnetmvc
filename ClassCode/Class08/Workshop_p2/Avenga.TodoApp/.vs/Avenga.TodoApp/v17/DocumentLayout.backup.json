@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEA7EFA-7204-4C68-B48F-5618AB31513F}|Avenga.TodoApp.Services\\Avenga.TodoApp.Services.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.services\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEA7EFA-7204-4C68-B48F-5618AB31513F}|Avenga.TodoApp.Services\\Avenga.TodoApp.Services.csproj|solutionrelative:avenga.todoapp.services\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15220F76-DDD9-4E72-8044-5B5329591EA9}|Avenga.TodoApp.ViewModels\\Avenga.TodoApp.ViewModels.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.viewmodels\\createtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15220F76-DDD9-4E72-8044-5B5329591EA9}|Avenga.TodoApp.ViewModels\\Avenga.TodoApp.ViewModels.csproj|solutionrelative:avenga.todoapp.viewmodels\\createtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15220F76-DDD9-4E72-8044-5B5329591EA9}|Avenga.TodoApp.ViewModels\\Avenga.TodoApp.ViewModels.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15220F76-DDD9-4E72-8044-5B5329591EA9}|Avenga.TodoApp.ViewModels\\Avenga.TodoApp.ViewModels.csproj|solutionrelative:avenga.todoapp.viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.web\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|solutionrelative:avenga.todoapp.web\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEA7EFA-7204-4C68-B48F-5618AB31513F}|Avenga.TodoApp.Services\\Avenga.TodoApp.Services.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.services\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEA7EFA-7204-4C68-B48F-5618AB31513F}|Avenga.TodoApp.Services\\Avenga.TodoApp.Services.csproj|solutionrelative:avenga.todoapp.services\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.web\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|solutionrelative:avenga.todoapp.web\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|solutionrelative:avenga.todoapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFDBF38-8B32-4D5F-96AE-18274CBD505E}|Avenga.TodoApp.DataAccess\\Avenga.TodoApp.DataAccess.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.dataaccess\\data\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFDBF38-8B32-4D5F-96AE-18274CBD505E}|Avenga.TodoApp.DataAccess\\Avenga.TodoApp.DataAccess.csproj|solutionrelative:avenga.todoapp.dataaccess\\data\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEA7EFA-7204-4C68-B48F-5618AB31513F}|Avenga.TodoApp.Services\\Avenga.TodoApp.Services.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.services\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEA7EFA-7204-4C68-B48F-5618AB31513F}|Avenga.TodoApp.Services\\Avenga.TodoApp.Services.csproj|solutionrelative:avenga.todoapp.services\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE988B2D-C70F-4B67-9458-E8015187DB0C}|Avenga.TodoApp.Web\\Avenga.TodoApp.Web.csproj|solutionrelative:avenga.todoapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B265E51-5EC4-4689-95EA-75882343A973}|Avenga.TodoApp.Domain\\Avenga.TodoApp.Domain.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.domain\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B265E51-5EC4-4689-95EA-75882343A973}|Avenga.TodoApp.Domain\\Avenga.TodoApp.Domain.csproj|solutionrelative:avenga.todoapp.domain\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFDBF38-8B32-4D5F-96AE-18274CBD505E}|Avenga.TodoApp.DataAccess\\Avenga.TodoApp.DataAccess.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.dataaccess\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFDBF38-8B32-4D5F-96AE-18274CBD505E}|Avenga.TodoApp.DataAccess\\Avenga.TodoApp.DataAccess.csproj|solutionrelative:avenga.todoapp.dataaccess\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFDBF38-8B32-4D5F-96AE-18274CBD505E}|Avenga.TodoApp.DataAccess\\Avenga.TodoApp.DataAccess.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFDBF38-8B32-4D5F-96AE-18274CBD505E}|Avenga.TodoApp.DataAccess\\Avenga.TodoApp.DataAccess.csproj|solutionrelative:avenga.todoapp.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B265E51-5EC4-4689-95EA-75882343A973}|Avenga.TodoApp.Domain\\Avenga.TodoApp.Domain.csproj|c:\\users\\code\\desktop\\myrepo\\aspnetmvc\\aspnetmvc\\classcode\\class08\\workshop_p2\\avenga.todoapp\\avenga.todoapp.domain\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B265E51-5EC4-4689-95EA-75882343A973}|Avenga.TodoApp.Domain\\Avenga.TodoApp.Domain.csproj|solutionrelative:avenga.todoapp.domain\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTodoVM.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.ViewModels\\CreateTodoVM.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.ViewModels\\CreateTodoVM.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.ViewModels\\CreateTodoVM.cs",
+              "RelativeToolTip": "Avenga.TodoApp.ViewModels\\CreateTodoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:46:52.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.ViewModels\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.ViewModels\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.ViewModels\\CategoryVM.cs",
+              "RelativeToolTip": "Avenga.TodoApp.ViewModels\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:46:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:20:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Avenga.TodoApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T16:30:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Web\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "Avenga.TodoApp.Web\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T16:30:41.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Program.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:25:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Web\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Web\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:12:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Services\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\TodoService.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Services\\Services\\TodoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:01:43.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.DataAccess\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.DataAccess\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.DataAccess\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "Avenga.TodoApp.DataAccess\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:01:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Avenga.TodoApp.DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:01:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.DataAccess\\Data\\StaticDb.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.DataAccess\\Data\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.DataAccess\\Data\\StaticDb.cs",
+              "RelativeToolTip": "Avenga.TodoApp.DataAccess\\Data\\StaticDb.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:01:05.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Domain\\Status.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Domain\\Status.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Domain\\Status.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Domain\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:00:55.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Dtos\\TodoDto.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Services\\Dtos\\TodoDto.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Dtos\\TodoDto.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Services\\Dtos\\TodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:54:38.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Domain\\Todo.cs",
+              "RelativeDocumentMoniker": "Avenga.TodoApp.Domain\\Todo.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\myRepo\\aspnetmvc\\aspnetmvc\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Domain\\Todo.cs",
+              "RelativeToolTip": "Avenga.TodoApp.Domain\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:54:27.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

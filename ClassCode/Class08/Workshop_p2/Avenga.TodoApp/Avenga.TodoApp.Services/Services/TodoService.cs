@@ -1,4 +1,5 @@
-﻿using Avenga.TodoApp.DataAccess.Repositories;
+﻿using Avenga.TodoApp.DataAccess.Data;
+using Avenga.TodoApp.DataAccess.Repositories;
 using Avenga.TodoApp.Domain;
 using Avenga.TodoApp.Services.Dtos;
 using Avenga.TodoApp.Services.Services.Interfaces;
@@ -23,11 +24,16 @@ namespace Avenga.TodoApp.Services.Services
                 // Map from Todo to TodoDto
                 foreach (var todo in todos)
                 {
-                    // TODO: Finish the mapping
-                    //todosDto.Add(new TodoDto
-                    //{
-                    //    todo.Id = 
-                    //})
+                    
+                    todosDto.Add(new TodoDto
+                    {
+                        Id = todo.Id,
+                        Description = todo.Description,
+                        DueDate = todo.DueDate,
+                        Category = StaticDb.Categories.SingleOrDefault(x => x.Id == todo.CategoryId).Name,
+                        Status = StaticDb.Statuses.SingleOrDefault(x => x.Id == todo.StatusId).Name,
+                        StatusId = todo.StatusId
+                    });
                 }
                 return todosDto;
             }

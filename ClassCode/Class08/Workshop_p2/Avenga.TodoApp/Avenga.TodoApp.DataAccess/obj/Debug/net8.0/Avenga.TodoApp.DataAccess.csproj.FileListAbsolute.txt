@@ -1,0 +1,16 @@
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\bin\Debug\net8.0\Avenga.TodoApp.DataAccess.deps.json
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\bin\Debug\net8.0\Avenga.TodoApp.DataAccess.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\bin\Debug\net8.0\Avenga.TodoApp.DataAccess.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\bin\Debug\net8.0\Avenga.TodoApp.Domain.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\bin\Debug\net8.0\Avenga.TodoApp.Domain.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.AssemblyInfo.cs
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.sourcelink.json
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.T.E6AF7D4C.Up2Date
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\refint\Avenga.TodoApp.DataAccess.dll
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\Avenga.TodoApp.DataAccess.pdb
+C:\Users\code\Desktop\myRepo\aspnetmvc\aspnetmvc\ClassCode\Class08\Workshop_p2\Avenga.TodoApp\Avenga.TodoApp.DataAccess\obj\Debug\net8.0\ref\Avenga.TodoApp.DataAccess.dll
