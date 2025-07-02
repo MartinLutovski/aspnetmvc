@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avenga.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc89aa6afc671fb38f7fedc799922746d330b345")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92b88432972c4b5fe4f74702b0f4bc450b1c8f71")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avenga.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avenga.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
