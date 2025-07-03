@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avenga.TodoApp.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e620ec6be32fa34cf6f44ca2bd8d4d31a5b7d9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+399f09e383f7a62c9c9acd9461022d20e7678a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avenga.TodoApp.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avenga.TodoApp.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

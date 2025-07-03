@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avenga.TodoApp.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92b88432972c4b5fe4f74702b0f4bc450b1c8f71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+399f09e383f7a62c9c9acd9461022d20e7678a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avenga.TodoApp.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avenga.TodoApp.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
