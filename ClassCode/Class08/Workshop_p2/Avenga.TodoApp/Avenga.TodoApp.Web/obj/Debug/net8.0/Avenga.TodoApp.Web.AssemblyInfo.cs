@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avenga.TodoApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e620ec6be32fa34cf6f44ca2bd8d4d31a5b7d9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e91e0468232a63ea2be6558e6df1296f6e5d8a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avenga.TodoApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avenga.TodoApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

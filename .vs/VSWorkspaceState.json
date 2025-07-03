@@ -7,8 +7,11 @@
     "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp",
     "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services",
     "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services",
-    "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\Interfaces"
+    "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\Interfaces",
+    "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web",
+    "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views",
+    "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views\\Todo"
   ],
-  "SelectedNode": "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Services\\Services\\Interfaces\\ICategoryService.cs",
+  "SelectedNode": "\\ClassCode\\Class08\\Workshop_p2\\Avenga.TodoApp\\Avenga.TodoApp.Web\\Views\\Todo\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

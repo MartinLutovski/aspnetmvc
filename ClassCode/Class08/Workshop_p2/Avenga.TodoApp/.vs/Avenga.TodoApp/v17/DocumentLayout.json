@@ -50,8 +50,7 @@
               "RelativeToolTip": "Avenga.TodoApp.Web\\Controllers\\TodoController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwCoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T16:06:21.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T16:06:21.294Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Avenga.TodoApp.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwBoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T16:06:02.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T16:06:02.168Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Avenga.TodoApp.Web\\Views\\Todo\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T16:01:32.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T16:01:32.898Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Avenga.TodoApp.Services\\Services\\TodoService.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAewEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T15:48:30.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T15:48:30.707Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Avenga.TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:20:47.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T17:20:47.373Z"
             }
           ]
         }
