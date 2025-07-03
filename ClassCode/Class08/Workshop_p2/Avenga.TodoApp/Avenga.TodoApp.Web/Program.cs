@@ -12,8 +12,7 @@ builder.Services.AddScoped<IRepository<Todo>, TodoRepository>();
 
 builder.Services.AddScoped<ITodoService, TodoService>();
 
-builder.Services.AddScoped<Category>, CategoryRepository > ();
-
+builder.Services.AddScoped<IRepository<Category>, CategoryRepository>();
 
 
 

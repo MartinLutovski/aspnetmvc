@@ -33,5 +33,17 @@ namespace Avenga.TodoApp.Web.Controllers
 
             return View();
         }
+        [HttpPost]
+
+        public IActionResult MarkComplete(int todoId)
+        {
+            var response = _todoservice.MarkComplete(todoId);
+            if (!response)
+            {
+                ViewBag["Error message"] = "Todo doesnt exist!";
+
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

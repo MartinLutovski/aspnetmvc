@@ -9,5 +9,7 @@ namespace Avenga.TodoApp.Services.Services.Interfaces
         IEnumerable<TodoDto> GetAllTodos();
 
         void AddTodo(CreateTodoVM createTodoVM);
+        bool MarkComplete(int todoId);
+        void RemoveComplete();
     }
 }

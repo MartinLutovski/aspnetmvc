@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class09.EntitiyFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92b88432972c4b5fe4f74702b0f4bc450b1c8f71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e620ec6be32fa34cf6f44ca2bd8d4d31a5b7d9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class09.EntitiyFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class09.EntitiyFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

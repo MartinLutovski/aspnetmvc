@@ -52,5 +52,27 @@ namespace Avenga.TodoApp.Services.Services
             }
             return todosDto;
         }
+
+        public bool MarkComplete(int todoId)
+        {
+            var todo = _todoRepository.GetById(todoId);
+            if (todo is null)
+            {
+            return false;
+            }
+            todo.StatusId = 2;
+            var index = _todoRepository.GetAll().ToList().IndexOf(todo);
+            _todoRepository.GetAll().ToList()[index] = todo;
+            return true;
+        }
+
+        public void RemoveComplete()
+        {
+            var CompletedTodos = _todoRepository.GetAll().Where(x => x.StatusId == 2);
+            foreach (var todo in CompletedTodos)
+            {
+                _todoRepository.Delete(todo.Id);
+            }
+        }
     }
 }
